@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pedro, — <a > Passionate about IT & always learning </a>💻</h1>
+<h1>Hi, I'm Pedro — <a > Passionate about IT & always learning </a>💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
